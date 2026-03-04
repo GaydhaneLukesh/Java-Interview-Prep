@@ -3,21 +3,21 @@ Review Questions-
 
 
 1. What is the need or what is the advantage of having the default methods in an interface in Java 8?
-2. What is the advantage of static methods in Java 8 interfaces?
+2. What is the advantage of static methods, we are having in interfaces after java 8 updates?
 3. What is Lambda, and what are the advantages of Lambda?
-4. What are the different functional interfaces introduced in Java 8?
-5. What is the difference between Stream and Collection?
+4. What are the different functional interfaces introduced in Java 8? - Types of FunctionalInterFace
+5. What is the difference between Streams and Collections?
 6. Write a stream code to delete the duplicates from array List
 7. What is the difference between a map and a flat Map?
 8. Write a stream program to get the minimum, maximum, and average salary of an employee (given employee array)
-9. What is the difference between an intermediate operation and a terminal operation
+9. What is the difference between an intermediate operation and a terminal operation?
 10. What is short-circuit operation?
 11. What is the difference between forEach and forEachOrdered?
 12. How to create the optional object?
 13. What is MetaSpace? How does it differ from PermGen?
 14. What are functional or SAM interfaces?
 15. Can a functional interface extend/inherit another interface?
-16. What is the difference between trim() and strip() method in Java 11
+16. What is the difference between trim() and strip() method in Java 11?
 
 
 
@@ -25,12 +25,12 @@ Review Questions-
 
 1. In how many ways can we define a thread, and which one is the best approach, and why?
 2. What is the thread Scheduler?
-3. Differentiate between t.start() and t.run() according to below program?
+3. Differentiate between t.start() and t.run()?
 4. Explain the Thread lifecycle?
 5. What are Thread priorities in Java?
 6. How to get and set the priority of a thread?
 7. In how many ways can we prevent a thread execution?
-8. What is the purpose of the join () method?
+8. What is the purpose of the join() method?
 9. When should we use the sleep() method?
 10. How can a thread interrupt another thread?
 11. What is the biggest advantage of synchronized keyword?
@@ -64,13 +64,13 @@ Review Questions-
 14. Diff between LinkedList and ArrayList?
 15. Internal working of HashMap?
 16. Explain what HashCollision is.
-17. What is the ConcurrentModification Exception, and when does it occur?
+17. What is the ConcurrentModificationException, and when does it occur?
 
 
 
 
 
-1. Contradiction between the hashCode vs equalsTo method?
+1. What is the Contradiction between the hashCode vs equalsTo method?
 2. Which different types of API versioning have you used in your project?
 3. What is serializable?
 4. What is a predicate?
