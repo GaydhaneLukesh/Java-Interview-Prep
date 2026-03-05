@@ -76,3 +76,18 @@ Review Questions-
 4. What is a predicate?
 5. What are bifunctions?
 6. Are you familiar with @Transactional?
+
+
+
+1. What is the difference between HashMap and ConcurrentHashMap?
+2. How does ArrayList work internally?
+3. What is a WeakHashMap?
+4. Explain ReentrantLock vs synchronized block.
+5. What is the difference between Optional.of() and Optional.ofNullable()?
+6. How does Collectors.groupingBy() work? 
+7. When to use TreeMap vs HashMap?
+8. What is the use of transient keyword?
+9. How would you design your own custom collection?
+10. How to detect memory leaks in Java?
+11.  What is the difference between stateful and stateless session beans?
+12. 
